@@ -1,13 +1,13 @@
 {
   "name": "tmenu",
   "version": "0.0.1",
-  "manifest_version": "3",
+  "manifest_version": 3,
   "description": "New tab page inspired by dmenu.",
   "permissions": [
     "bookmarks"
   ],
   "chrome_url_overrides": {
-    "newtab": "newtab.html"
+    "newtab": "tmenu.html"
   }
 }
 
