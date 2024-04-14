@@ -7,7 +7,7 @@
     "bookmarks"
   ],
   "chrome_url_overrides": {
-    "newtab": "tmenu.html"
+    "newtab": "focus.html"
   }
 }
 
